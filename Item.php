@@ -1,6 +1,12 @@
 <?php
 /**
- * Item
+ * Item Class
+ *
+ * A PHP framework for web content
+ *
+ * @package		Lister
+ * @author		Shanon Scully
+ * @since		Version 0.1
  */
 class Item {
 
